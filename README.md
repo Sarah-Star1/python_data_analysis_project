@@ -37,6 +37,6 @@ bar graph for the trending job skills
 3. Python and Tableau stay relatively stable, but Python spikes noticeably around August, briefly overtaking Tableau.
 
 ## 3. How will jobs and skills pay for data analysts?
-![how will they pay](3_project\images\poxblot.png)
+![how will they pay](3_project/images/poxblot.png)
 
-![most in demand and high paying skills for data analysts](3_project\images\photo4.png)
+![most in demand and high paying skills for data analysts](3_project/images/photo4.png)
